@@ -1,0 +1,4 @@
+name: Natalia
+age: 40
+pets: 1
+salary: 50000
