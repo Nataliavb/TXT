@@ -1,0 +1,6 @@
+skill_1: Github
+skill_2: Gitbush
+skill_3:Postman
+skill_4:SQL
+skill_5:API
+skill_6: Fiddler
