@@ -1,4 +1,4 @@
 name: Natalia
-age: 40
+age: 39
 pets: 1
-salary: 50000
+salary: 50
